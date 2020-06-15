@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GroupProject-GroceryApp</string>
     <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="add_allergies">Add Allergies</string>
+    <string name="search">Search</string>
+    <string name="add">Add</string>
+    <string name="Empty">No value</string>
 </resources>
