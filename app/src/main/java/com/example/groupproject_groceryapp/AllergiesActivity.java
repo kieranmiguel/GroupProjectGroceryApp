@@ -62,7 +62,7 @@ public class AllergiesActivity extends AppCompatActivity {
         userViewModel.delete(this);
         finish();
     }
-    public void back(){
+    public void back(View view){
         finish();
     }
 
